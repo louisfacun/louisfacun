@@ -2,5 +2,7 @@
 
 Welcome to my GitHub profile.
 I’m **Louis Facun!**
-- 👀 I’m interested in deep learning and software engineering.
-- 📫 How to reach me: louis@louisfacun.com
+
+![Louis' GitHub stats](https://github-readme-stats.vercel.app/api?username=louisfacun&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louisfacun)](https://github.com/anuraghazra/github-readme-stats)
